@@ -57,19 +57,3 @@
 <p align="center">
   Post in progress...📝
 </p>
-
-&nbsp;
-&nbsp;
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/GitHWS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHWS&layout=compact&show_owner=ture&theme=nord" />
-  </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/GitHWS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GitHWS&include_all_commits=ture&theme=nord" />
-  </a>
-</p>
