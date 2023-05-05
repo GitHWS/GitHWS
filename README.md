@@ -1,59 +1,47 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=6495ED&height=200&section=header&text=Welcome👋&fontSize=60&animation=fadeIn&fontColor=ffffff)
 
-<!-- header Waving -->
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hyunwoo%20Shin🐳&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=eeeeee)
-  
+# Hey! Nice to see you! 🥳
+
+Welcome To My Pages!
+
+I'm **Hyunwoo Shin**, I Always happy junior Front-end Developer 👻
+
+<div>
+<a href='https://velog.io/@untiring_dev' target="_blank">
+   <img src="https://img.shields.io/badge/velog-brightgreen?logo=velog&logoColor=white&style=flat" alt="my-dev-blog"/>
+</a>
+
+<a href='https://githws.github.io' target="_blank">
+   <img src="https://img.shields.io/badge/GitBlog-new-ffffff?logo=github&logoColor=black&style=social" alt="my-dev-blog"/>
+</a>
 </div>
 
-<div align="center">
-  <p>Hello! 👋 <br>
-  This is Github to dive to Frontend developer🌊<br>
-  I'm ready to study everyday! 🤿
-  </p>
-  
-&nbsp;
-&nbsp;
-  
-  <img src="https://user-images.githubusercontent.com/96808980/160424808-369309de-b924-4929-b98b-93c0864def89.gif" alt="I can to this all day">
-</div>
+<br/>
 
-&nbsp;
-&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHWS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+## Think I code with 📚
 
-&nbsp;
-&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 
-<!-- Frontend Stack badge -->
-<h2 align="center">Frontend Stack 💻</h2>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-&nbsp;
-&nbsp;
-
-<p align="center">
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
-</p>
-&nbsp;
-<p align="center">
-  Update in progress...⏳
-</p>
-
-
-<h2 align="center">Tech Blog 🔧</h2>
-
-&nbsp;
-&nbsp;
-
-<p align="center">
-  <a href="https://velog.io/@untiring_dev"><img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
-  <a href="https://github.com/GitHWS"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  Post in progress...📝
-</p>
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Velog](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=velog&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
